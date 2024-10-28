@@ -21,4 +21,4 @@ This Power BI project provides an in-depth analysis of Virat Kohli's T20 perform
 3. **Top Opponent Performances in 2021:** Against which teams did Virat achieve the most top performances, supporting strategic analysis?  
 4. **Match Count Over 4 Years:** How many matches did he play annually from 2017 to 2020, providing context to his long-term contributions?
 
-Editing...
+Editing..
